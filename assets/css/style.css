@@ -3,12 +3,10 @@
     padding: 0;
     margin: 0;
 }
-
 /* Change background color of the page */
 body {
     background-color: #d9dcd6;
 }
-
 /* General header styling */
 .header {
     padding: 20px;
