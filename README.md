@@ -1,5 +1,5 @@
 # 03DayHomeWork
-To Improve codebase for long-term sustainability
+Our task was to improve codebase for long-term sustainability
 To make sure links were functional.
 Cosolidate css properties.
 Organize properties to follow the semantic structure of the Html elements.
