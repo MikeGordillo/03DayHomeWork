@@ -8,9 +8,9 @@ Submit the deployed URL.
 Submit URL of the GitHub repository.
 
 
-I cleaned up the code by getting rid on Anything that seemed redundant.
+I cleaned up the code by getting rid on anything that seemed redundant.
 Made all links functional.
-consolidated css properties.
+Consolidated css properties.
 Changed vague elements for semintac elemnts.
 Made comments.
-Submitted both the deployed application URL and the GitHub URLs.
+Submitted both, the deployed application URL and the GitHub URLs.
