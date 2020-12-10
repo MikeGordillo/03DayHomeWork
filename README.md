@@ -8,7 +8,7 @@ Submit the deployed URL.
 Submit URL of the GitHub repository.
 
 
-I cleaned up the code by getting rid on anything that seemed redundant.
+I cleaned up the code by getting rid of anything that seemed redundant.
 Made all links functional.
 Consolidated css properties.
 Changed vague elements for semintac elemnts.
