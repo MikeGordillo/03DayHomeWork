@@ -16,7 +16,7 @@ Made comments.
 Submitted both, the deployed application URL and the GitHub URLs.
 
 
-Link to deployed site: file:///C:/Users/mikeg/Desktop/bootcamp/week01/03DayHomeWork/index.html
+Link to deployed site: https://mikegordillo.github.io/03DayHomeWork/
 
 Link to GitHub repo: https://github.com/MikeGordillo/03DayHomeWork
 
