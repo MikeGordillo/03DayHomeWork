@@ -20,4 +20,4 @@ Link to deployed site: file:///C:/Users/mikeg/Desktop/bootcamp/week01/03DayHomeW
 
 Link to GitHub repo: https://github.com/MikeGordillo/03DayHomeWork
 
-C:\Users\mikeg\desktop\bootcamp\week01\03DayHomeWork\assets\images\WEb.pgitng
+![WEb](https://raw.githubusercontent.com/MikeGordillo/03DayHomeWork/master/assets/images/WEb.png)
